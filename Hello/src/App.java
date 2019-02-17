@@ -1,5 +1,5 @@
 /*
- * This is to just add the comment
+ * This is to just add the comment Naren Jasti
  */
 public class App {
 
@@ -9,7 +9,7 @@ public class App {
 		
 		HelloWorld h2 = new HelloWorld();
 		h.setName("hello");
-		
+
 		System.out.println(h.getName()+" " +h2.getName());
 	}
 }
